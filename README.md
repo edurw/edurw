@@ -2,8 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/edurw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edurw&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edurw&layout=compact&langs_count=7&theme=dark"/>
+    <img
+      align="left"
+      alt="HTML"
+      title="HTML"
+      width="30px"
+      style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
   </a>
 </div>
 
